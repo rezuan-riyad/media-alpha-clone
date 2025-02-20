@@ -12,7 +12,7 @@ import { VisuallyHidden } from "radix-ui";
 
 const Navbar = () => {
   const navigationItems = [
-    { name: 'About Us', href: '/about-us' },
+    { name: 'About Us', href: '/about' },
     { name: 'Our Partners', href: '#our-partners' },
     { name: 'Privacy Policy', href: '/privacy' },
     { name: 'Terms of Use', href: '/terms' },
